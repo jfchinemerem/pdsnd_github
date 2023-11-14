@@ -17,7 +17,7 @@ def get_filters():
         if city in CITY_DATA:
             break
         else:
-            print("Invalid city name. Please enter a valid city name.")
+            print("Invalid city name. Please enter a valid city name: chicago, new_york_city or washington.")
 
     while True:
         month = input("Name of the month to filter by, or 'all' to apply no month filter: ").lower()
@@ -31,7 +31,7 @@ def get_filters():
         if day in ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']:
             break
         else:
-            print("Invalid day. Please enter a valid day or 'all'.")
+            print("You must have made a mistake. Please enter a valid day or 'all'.")
 
     return city, month, day
 
