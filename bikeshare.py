@@ -31,7 +31,7 @@ def get_filters():
         if day in ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']:
             break
         else:
-            print("Invalid day. Please enter a valid day or 'all'.")
+            print("You must have made a mistake. Please enter a valid day or 'all'.")
 
     return city, month, day
 
