@@ -10,7 +10,7 @@ November 1, 2023
 This project analyzes bikeshare data from Chicago, New York City and Washington. It provides insights into usage patterns, popular stations, trip durations, and user demographics.
 
 ## Files Used
-The following files were used for this project:
+The files shown below were used for this project:
 - bikeshare.py
 - chicago.csv
 - new_york_city.csv
