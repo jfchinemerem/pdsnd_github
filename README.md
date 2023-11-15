@@ -7,7 +7,7 @@ Bikeshare Data Analysis
 November 1, 2023
 
 ## Description
-This project analyzes bikeshare data from Chicago, New York City and Washington. It provides insights into usage patterns, popular stations, trip durations, and user demographics.
+This project analyzes bikeshare data from Chicago, New York City and Washington. It provides insights into usage patterns, popular stations, trip durations, and user demographics
 
 ## Files Used
 The files shown below were used for this project:
